@@ -498,6 +498,18 @@
             "description": "https://haonature.com"
           },
           "response": []
+        },
+        {
+          "_postman_id": "4e9ee2e4-e09c-57e0-5a1b-0ff26c21b60e",
+          "name": "https://haonature.com",
+          "request": {
+            "url": "",
+            "method": "GET",
+            "header": [],
+            "body": {},
+            "description": "https://haonature.com"
+          },
+          "response": []
         }
       ]
     },
